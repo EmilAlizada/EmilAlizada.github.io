@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emilalizada.github.io/sitemap.xml
