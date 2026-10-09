@@ -2,7 +2,7 @@
 
 Static website for cybersecurity, DevOps, Kubernetes security, and secure backend engineering projects.
 
-**Website:** https://emilalizada.github.io/ (available after GitHub Pages is enabled)
+**Website:** https://emilalizada.github.io/ (published with GitHub Pages)
 
 ## Local preview
 
